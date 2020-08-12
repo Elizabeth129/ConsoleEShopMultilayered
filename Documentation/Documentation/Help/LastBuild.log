@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2020.3.6.0" projectFile="D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Documentation.shfbproj" started="12.08.2020 10:19:40">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Found HTML Help 1 compiler in &#39;D:\htmlhelp\&#39;
+Locating components in the following folder(s):
+    D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
+Using framework reflection data for &#39;.NET Framework 4.7.2&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2020.3.6.0
+Copyright &#169; 2006-2020, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\ConsoleEShopMultilayered.csproj
+    Found project &#39;D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\ConsoleEShopMultilayered.csproj&#39;
+
+Parsing project files
+    Found assembly &#39;D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.dll&#39;
+
+References to include:
+    Castle.Core
+    Moq
+    System.Collections
+    System.Collections.NonGeneric
+    System.Collections.Specialized
+    System.ComponentModel
+    System.ComponentModel.Primitives
+    System.ComponentModel.TypeConverter
+    System.Diagnostics.Debug
+    System.Diagnostics.TraceSource
+    System.Dynamic.Runtime
+    System.Globalization
+    System.IO
+    System.IO.FileSystem
+    System.IO.FileSystem.Primitives
+    System.Linq
+    System.Linq.Expressions
+    System.ObjectModel
+    System.Reflection
+    System.Reflection.Emit
+    System.Reflection.Emit.ILGeneration
+    System.Reflection.Extensions
+    System.Reflection.Primitives
+    System.Reflection.TypeExtensions
+    System.Resources.ResourceManager
+    System.Runtime
+    System.Runtime.Extensions
+    System.Runtime.Handles
+    System.Runtime.InteropServices
+    System.Text.Encoding
+    System.Text.Encoding.Extensions
+    System.Text.RegularExpressions
+    System.Threading
+    System.Threading.Tasks
+    System.Xml.ReaderWriter
+    System.Xml.XmlDocument
+
+Copying XML comments files
+    D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.xml -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\ConsoleEShopMultilayered.xml
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, Английский (США))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00,0070
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00,0020
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - GenerateRefInfo.proj]
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 12.08.2020 10:19:41.
+Џа&#174;ҐЄв &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\GenerateRefInfo.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+PrepareForBuild:
+  ‘&#174;&#167;&#164;&#160;&#173;ЁҐ Є&#160;в&#160;&#171;&#174;Ј&#160; &quot;obj\Debug\&quot;.
+GenerateBindingRedirects:
+  ЌҐв ЇаҐ&#164;&#171;&#160;Ј&#160;Ґ&#172;ле ЇҐаҐ&#173;&#160;Їа&#160;ў&#171;Ґ&#173;Ё&#169; ЇаЁўп&#167;ЄЁ &#174;в ResolveAssemblyReferences.
+GenerateRefInfo:
+  MRefBuilder (v2020.3.6.0)
+  Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
+  No source code context base path specified.  Source context information is unavailable.
+  Loaded 1 assemblies for reflection and 107 dependency assemblies.
+  Using automatic redirect &#39;System.Collections, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Collections, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Using automatic redirect &#39;System.Diagnostics.Debug, Version=4.0.11.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39; in place of &#39;System.Diagnostics.Debug, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a&#39;
+  Wrote information on 5 namespaces, 15 types, and 85 members
+  Љ&#174;ЇЁа&#174;ў&#160;&#173;ЁҐ д&#160;&#169;&#171;&#160; Ё&#167; &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\reflection.org&quot; ў &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\reflection.all&quot;.
+  XslTransform (v2020.3.6.0)
+  Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\GenerateRefInfo.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+    Last step completed in 00:00:01,4419
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - TransformManifest.proj]
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 12.08.2020 10:19:43.
+Џа&#174;ҐЄв &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\TransformManifest.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+TransformManifest:
+  XslTransform (v2020.3.6.0)
+  Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Љ&#174;ЇЁа&#174;ў&#160;&#173;ЁҐ д&#160;&#169;&#171;&#160; Ё&#167; &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\reflection.xml&quot; ў &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\reflection.nofilenames&quot;.
+  XslTransform (v2020.3.6.0)
+  Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+  XslTransform (v2020.3.6.0)
+  Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\TransformManifest.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+    Last step completed in 00:00:00,9445
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00,3082
+</buildStep>
+<buildStep step="GenerateInheritedDocumentation">
+Generating inherited documentation...
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - GenerateInheritedDocs.proj]
+Sandcastle Help File Builder and Tools, version 2020.3.6.0
+Copyright c 2006-2020, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Reflection information will be retrieved from &#39;reflection.xml&#39;
+Inherited documentation will be written to &#39;_InheritedDocs_.xml&#39;
+Indexing C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\*.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Text.Encoding.Extensions.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.IO.FileSystem.Primitives.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.IO.FileSystem.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Xml.ReaderWriter.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Xml.XmlDocument.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Reflection.TypeExtensions.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Reflection.Emit.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Reflection.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Reflection.Emit.ILGeneration.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.ObjectModel.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Text.Encoding.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.IO.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Linq.Expressions.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Dynamic.Runtime.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Diagnostics.TraceSource.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Reflection.Extensions.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Linq.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.ComponentModel.Primitives.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Collections.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.ComponentModel.TypeConverter.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.ComponentModel.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Threading.Tasks.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Threading.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Runtime.Extensions.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Runtime.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Resources.ResourceManager.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Runtime.Handles.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Reflection.Primitives.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Globalization.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Diagnostics.Debug.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Collections.NonGeneric.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\System.Collections.Specialized.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Castle.Core.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Moq.xml
+Indexing D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\ConsoleEShopMultilayered.xml
+Indexed 160463 members in 162 file(s).  35 file(s) to scan for &lt;inheritdoc /&gt; tags.
+Merging inherited documentation...
+
+
+Documentation merged successfully
+    Last step completed in 00:00:01,4870
+</buildStep>
+<buildStep step="CopyConceptualContent">
+Copying conceptual content...
+Copying standard token shared content file...
+Checking for other token files...
+Checking for code snippets files...
+Copying images and creating the media map file...
+Generating conceptual topic files
+    Parsing topic file &#39;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Content\Welcome.aml&#39;
+    D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Content\Welcome.aml -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\ddueXml\57318fac-e302-488c-b298-a7dc3ec9c635.xml
+    Parsing topic file &#39;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Content\VersionHistory\VersionHistory.aml&#39;
+    D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Content\VersionHistory\VersionHistory.aml -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\ddueXml\44f9d686-5822-4cbd-9699-8744745d8a48.xml
+    Parsing topic file &#39;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Content\VersionHistory\v1.0.0.0.aml&#39;
+    D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Content\VersionHistory\v1.0.0.0.aml -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\ddueXml\a0e71904-fc3d-485e-9c2a-e58e06682e7e.xml
+    Last step completed in 00:00:00,0289
+</buildStep>
+<buildStep step="CreateConceptualTopicConfigs">
+Creating conceptual topic configuration files...
+    Companion files
+    _ContentMetadata_.xml
+    Merging topic IDs into manifest.xml
+    Last step completed in 00:00:00,0070
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\icons\Help.png -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\Help.png
+    Last step completed in 00:00:00,0040
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00,0010
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - GenerateIntermediateTOC.proj]
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 12.08.2020 10:19:46.
+Џа&#174;ҐЄв &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+GenerateIntermediateTOC:
+  XslTransform (v2020.3.6.0)
+  Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\GenerateIntermediateTOC.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00,3730
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:00,2902
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\sandcastle.config
+  Updating reference topic configurations.
+  Updating conceptual topic configurations.
+    Removing unused ExampleComponent.
+    Last step completed in 00:00:00,0040
+</buildStep>
+<buildStep step="BuildTopics">
+Building help topics...
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - BuildTopics.proj]
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 12.08.2020 10:19:46.
+Џа&#174;ҐЄв &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\BuildTopics.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+BuildTopics:
+  BuildAssembler (v2020.3.6.0)
+  Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+BuildAssembler : warning : ShowMissingComponent: [N:ConsoleEShopMultilayered.BLL] Missing &lt;summary&gt; documentation [D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:ConsoleEShopMultilayered.DAL.Entities] Missing &lt;summary&gt; documentation [D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:ConsoleEShopMultilayered.DAL.Enums] Missing &lt;summary&gt; documentation [D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:ConsoleEShopMultilayered.DAL.Repository] Missing &lt;summary&gt; documentation [D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [N:ConsoleEShopMultilayered.DL] Missing &lt;summary&gt; documentation [D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\BuildTopics.proj]
+  Processed 121 topic(s)
+  5 warning(s)
+  CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
+  ResolveArtLinksComponent: Copying media files...
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
+‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\BuildTopics.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
+    Last step completed in 00:00:09,1351
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00,0040
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - ExtractHtmlInfo.proj]
+Sandcastle Help File Builder and Tools, version 2020.3.6.0
+Copyright c 2006-2020, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
+
+Processing Help 1 files in D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1
+Processed 121 HTML files
+Sorting keywords and generating See Also indices
+Saving HTML Help 1 keyword index to D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Documentation.hhk
+Saving HTML Help 1 table of contents to D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Documentation.hhc
+    Last step completed in 00:00:00,5326
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; D:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\styles\branding.css
+    Last step completed in 00:00:00,3292
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating HTML Help 1 table of contents file...
+    Last step completed in 00:00:00,0000
+</buildStep>
+<buildStep step="GenerateHelpFileIndex">
+Generating HTML Help 1 index file...
+    Last step completed in 00:00:00,0000
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Generating HTML Help 1 project file...
+    Last step completed in 00:00:00,0039
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Compiling HTML Help 1 file...
+[C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - Build1xHelpFile.proj]
+  Microsoft HTML Help Compiler 4.74.8702
+  
+  
+  
+  Compiling d:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\Documentation.chm
+  
+  
+  
+  
+  
+  Compile time: 0 minutes, 1 second
+  
+  123	Topics
+  
+  1,222	Local links
+  
+  0	Internet links
+  
+  0	Graphics
+  
+  
+  
+  
+  
+  Created d:\Epam\ConsoleEShopMultilayered\Documentation\Documentation\Help\Working\Output\HtmlHelp1\Documentation.chm, 178,027 bytes
+  
+  Compression decreased file by 839,917 bytes.
+  
+    Last step completed in 00:00:01,6228
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:00,0888
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 12.08.2020 10:19:58.  Total time: 00:00:18,0063
+
+</buildStep>
+</shfbBuild>

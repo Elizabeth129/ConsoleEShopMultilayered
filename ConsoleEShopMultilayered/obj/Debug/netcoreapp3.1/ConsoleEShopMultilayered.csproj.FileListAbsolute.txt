@@ -1,0 +1,15 @@
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.exe
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\obj\Debug\netcoreapp3.1\ConsoleEShopMultilayered.AssemblyInfoInputs.cache
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\obj\Debug\netcoreapp3.1\ConsoleEShopMultilayered.AssemblyInfo.cs
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.deps.json
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.runtimeconfig.json
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.runtimeconfig.dev.json
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.dll
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.pdb
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\obj\Debug\netcoreapp3.1\ConsoleEShopMultilayered.csproj.CopyComplete
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\obj\Debug\netcoreapp3.1\ConsoleEShopMultilayered.dll
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\obj\Debug\netcoreapp3.1\ConsoleEShopMultilayered.pdb
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\bin\Debug\netcoreapp3.1\ConsoleEShopMultilayered.xml
+D:\Epam\ConsoleEShopMultilayered\ConsoleEShopMultilayered\obj\Debug\netcoreapp3.1\ConsoleEShopMultilayered.csprojAssemblyReference.cache
